@@ -1,0 +1,62 @@
+.main-box{
+    width: 400px;
+    margin: 100px auto;
+    border: 1px solid lightgray;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.description{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.topimage{
+    width: 100%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.material-symbols-outlined{
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.container-icon-text{
+    display:flex;
+}
+
+.subscribe-heading{
+    margin-left: 20px;
+    font-family: 'Gabarito', 'sans-serif';
+    font-size: 20px;
+    color: #6a6e72;
+    text-transform: uppercase;
+}
+
+.getmorefeatures-heading{
+    font-size: 30px;
+    font-family: 'Gabarito', 'sans-serif';
+    margin-top: 30px;
+
+}
+
+.final-description{
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.view-details-btn{
+    color: blue;
+    padding: 10px;
+    font-size: 24px;
+    font-family: 'Gabarito', 'sans-serif';
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    opacity: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
